@@ -1,0 +1,6 @@
+{
+  "name": "LC Web Studio",
+  "description": "Website development studio for college projects, business, portfolios, and personal sites with live demo previews, budget packages, and WhatsApp lead management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
