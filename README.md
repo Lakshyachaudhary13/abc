@@ -1,3 +1,7 @@
+Short GitHub Repository About / Description (1-liner)
+LC Web Studio — High-performance full-stack web development studio platform with interactive sandboxes, AI-powered project cost estimation, real-time UPI payment gateway, and an integrated admin operations desk.
+
+
 # ⚡ LC Web Studio
 
 > **Fast, modern, and affordable web development for businesses, students, and creators.** Starting from ₹499 with 24–48 hour delivery.
